@@ -1,0 +1,7 @@
+- **Acción**: Revisar el sistema de progresión del servidor para eliminar la sensación de "no llegar a ningún lado".
+	- Aumentar la recompensa por subir rangos o completar eventos.
+- #Tareas:
+	- TODO Revisar los sistemas de progresión actuales.
+	- TODO Ajustar las recompensas para dar una mayor sensación de avance a los jugadores.
+-
+-

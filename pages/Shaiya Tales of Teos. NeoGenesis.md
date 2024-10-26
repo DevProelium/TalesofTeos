@@ -1,0 +1,12 @@
+### 1. **[[Reducción y Simplificación de Mapas]]**
+- ### 2.  **[[Revisión y Simplificación del Sistema de Crafteo]]**
+- ### 3.  **[[Cambios en el Item Mall y Nuevos Jugadores]]**
+- ### 4.  **[[Ajustes en Drops y Loot de Mobs]]**
+- ### 5.  **[[Reseteo de Rangos y Competitividad]]**
+- ### 6.  **[[Títulos Especiales y Sistema de Historia]]**
+- ### 7.  **[[Revisión General del Sistema de Progresión]]**
+-
+- ### **[[Resumen de las Principales Tareas]]:**
+-
+- Podemos discutir y agregar los temas que creamos necesarios o quitar , todo sea para controlar muy bien la transformación.
+-

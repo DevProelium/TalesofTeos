@@ -1,0 +1,9 @@
+- **Acción**: Reiniciar los rangos para promover una sensación de progreso y competencia.
+	- **Nueva Temporada de Rangos**: Introducir títulos para los jugadores con rangos más altos al finalizar la temporada.
+	- **Cuadro de Honor**: Crear un cuadro de honor en la página web para los jugadores que tuvieron los mejores rangos en la temporada anterior.
+- #Tareas:
+	- TODO Programar el reseteo de los rangos.
+	- TODO Crear un sistema de títulos para jugadores con altos rangos.
+	- TODO Diseñar el cuadro de honor en la página web para destacar a los mejores jugadores de temporadas anteriores.
+-
+-

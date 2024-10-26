@@ -1,0 +1,7 @@
+- **Acción**: Revisar el sistema de crafteo para hacerlo más accesible y simplificado.
+	- **Quitar**: Opciones de crafteo para Armaduras, Armas y Joyas.
+	- **Mantener o Modificar**: Otras opciones de crafteo, ajustando la dificultad o los materiales necesarios.
+- #Tareas:
+	- TODO Revisar todas las recetas de crafteo actuales.
+	- TODO Eliminar recetas relacionadas con Armaduras, Armas y Joyas.
+	- TODO Simplificar el sistema para reducir la confusión en los jugadores.
